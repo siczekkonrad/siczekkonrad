@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fncodepl" target="blank"><img src="https://img.shields.io/twitter/follow/fncodepl?logo=twitter&style=for-the-badge" alt="fncodepl" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NextJS, NodeJs**
+- 🌱 I’m currently learning **ReactJS, NextJS, Gutenberg JSX Blocks**
 
 - 📝 I regularly write articles on [https://functionalcode.pl](https://functionalcode.pl)
 
