@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Gutenberg JSX Blocks**
 
-- 📝 I regularly write articles on [https://functionalcode.pl](https://functionalcode.pl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
