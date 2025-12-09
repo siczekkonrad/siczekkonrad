@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siczekkonrad&label=Profile%20views&color=0e75b6&style=flat" alt="siczekkonrad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siczekkonrad" alt="siczekkonrad" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/fncodepl" target="blank"><img src="https://img.shields.io/twitter/follow/fncodepl?logo=twitter&style=for-the-badge" alt="fncodepl" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS, NextJS, Gutenberg JSX Blocks**
 
 
