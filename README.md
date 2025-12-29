@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siczekkonrad&label=Profile%20views&color=0e75b6&style=flat" alt="siczekkonrad" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Gutenberg JSX Blocks**
 
 
 <h3 align="left">Connect with me:</h3>
