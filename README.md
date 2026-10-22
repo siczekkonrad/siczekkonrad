@@ -45,16 +45,17 @@ Explore my work at **[siczek.dev](https://siczek.dev)** or visit my studio, **[F
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siczekkonrad&show_icons=true&hide_border=true&theme=github_dark&title_color=14B8A6&icon_color=14B8A6&bg_color=0D1117" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siczekkonrad&show_icons=true&hide_rank=true&hide=commits,contribs&hide_border=true&theme=github_dark&title_color=14B8A6&icon_color=14B8A6&bg_color=0D1117" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siczekkonrad&layout=compact&hide_border=true&theme=github_dark&title_color=14B8A6&bg_color=0D1117&hide=html,css" alt="Most used languages in public GitHub repositories" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siczekkonrad&bg_color=0d1117&color=9ca3af&line=14b8a6&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+<p><a href="https://github.com/siczekkonrad?tab=overview&from=2026-01-01&to=2026-12-31">View my contributions and activity directly on GitHub</a></p>
 
 </div>
 
 ### Contributions in motion
 
-<!-- Appears after the GitHub Actions workflow runs successfully for the first time. -->
+<!-- Requires .github/workflows/snake.yml to run successfully and publish the output branch.
+     Follow SETUP.md before expecting the animation to display. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siczekkonrad/siczekkonrad/output/github-snake-dark.svg" />
