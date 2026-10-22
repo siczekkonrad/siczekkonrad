@@ -23,7 +23,7 @@ Explore my work at **[siczek.dev](https://siczek.dev)** or visit my studio, **[F
 
 - **WordPress engineering:** custom themes and plugins, ACF, Gutenberg, WooCommerce, integrations and automation.
 - **Modern frontend:** responsive and accessible interfaces with JavaScript, TypeScript, React and Astro.
-- **Engineering workflows:** maintainable architecture, performance, design-to-code and pragmatic AI-assisted development.
+- **Engineering workflows:** maintainable architecture, performance, design-to-code and pragmatic AI-assisted development with Codex, Claude and pen.dev.
 
 ### Technologies
 
@@ -38,6 +38,14 @@ Explore my work at **[siczek.dev](https://siczek.dev)** or visit my studio, **[F
 **Tools & design**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,webpack&perline=9" alt="Git, GitHub, Figma, VS Code, Postman, Webpack" />
+
+**AI engineering & design tools**
+
+<a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI-Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" /></a>
+<a href="https://pen.dev/"><img src="https://img.shields.io/badge/Design-pen.dev-CCFF5F?style=for-the-badge&labelColor=131A20" alt="pen.dev AI design canvas" /></a>
+
+`AI-assisted development` · `Agentic workflows` · `Design-to-code` · `MCP`
 
 `WooCommerce` · `ACF Pro` · `Gutenberg` · `REST APIs` · `WCAG` · `Core Web Vitals`
 
